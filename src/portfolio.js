@@ -104,9 +104,30 @@ const skills = {
         },
         {
           skillName: "Excel",
-          fontAwesomeClassname: "fa-css3",
+          fontAwesomeClassname: "ri:file-excel-2-fill",
           style: {
             color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Bank",
+          fontAwesomeClassname: "carbon:finance",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "finance",
+          fontAwesomeClassname: "map:finance",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "growth",
+          fontAwesomeClassname: "mdi:finance",
+          style: {
+            color: "#E34F26",
           },
         },
       ],
@@ -176,22 +197,22 @@ const skills = {
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "Bitcoin",
+          fontAwesomeClassname: "logos:bitcoin",
           style: {
             color: "#FFCA28",
           },
         },
         {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
+          skillName: "eth",
+          fontAwesomeClassname: "logos:ethereum",
           style: {
             color: "#336791",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "block",
+          fontAwesomeClassname: "eos-icons:blockchain",
           style: {
             color: "#47A248",
           },
@@ -381,42 +402,15 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-  header_image_path: "experience.svg",
+
   sections: [
     {
       title: "Work",
-      experiences: [
-        {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - Aug 2021",
-          location: "Hyderabad, Telangana",
-          description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
-        },
-      ],
+      experiences: [],
     },
     {
       title: "Internships",
-      experiences: [
-        {
-          title: "Machine Learning Intern",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "May 2022 - Aug 2022",
-          location: "San Francisco, USA",
-          description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-          color: "#000000",
-        },
-      ],
+      experiences: [],
     },
     {
       title: "Volunteerships",
