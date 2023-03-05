@@ -336,7 +336,7 @@ const certifications = {
     {
       title: "Google Data Analytics Specialization",
       subtitle: "",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "google_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/certificate/E79ND42XFAUE",
       alt_name: "deeplearning.ai",
@@ -345,7 +345,7 @@ const certifications = {
     {
       title: "Risk Management Specialization",
       subtitle: "",
-      logo_path: "google_logo.png",
+      logo_path: "nyif.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/certificate/2HFVGLWJSU37",
       alt_name: "Google",
@@ -354,7 +354,7 @@ const certifications = {
     {
       title: "Excel Skills for Business Specialization",
       subtitle: "",
-      logo_path: "ibm_logo.png",
+      logo_path: "mqu.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/certificate/4WDMFG52JQLW",
       alt_name: "IBM",
@@ -363,7 +363,7 @@ const certifications = {
     {
       title: "Stock Valuation with Dividend Discount Model",
       subtitle: "",
-      logo_path: "microsoft_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/SVE8JATC9G2B",
       alt_name: "Microsoft",
@@ -372,7 +372,7 @@ const certifications = {
     {
       title: "Introduction to Valuation with WACC",
       subtitle: "",
-      logo_path: "ibm_logo.png",
+      logo_path: "coursera.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/certificate/B2BBNQWGT22M",
       alt_name: "IBM",
@@ -381,7 +381,7 @@ const certifications = {
     {
       title: "Bloomberg Market Concepts",
       subtitle: "",
-      logo_path: "google_logo.png",
+      logo_path: "blmbrg.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
       alt_name: "Google",
@@ -390,7 +390,7 @@ const certifications = {
     {
       title: "NISM-Series- VIII: Equity Derivatives Certificate",
       subtitle: "",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "nism.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
       alt_name: "deeplearning.ai",
