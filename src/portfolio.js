@@ -461,12 +461,11 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I am looking for an internship in Finance domain.",
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    subtitle: "For when I find myself overwhelmed with thoughts, I write.",
     link: "https://amitkrz.medium.com/",
     avatar_image_path: "blogs_image.svg",
   },
