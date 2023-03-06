@@ -3,18 +3,18 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 //import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import PublicationCard from "../../components/publicationsCard/PublicationCard";
-import Button from "../../components/button/Button";
+//import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
 import {
-  greeting,
-  projectsHeader,
+  //greeting,
+  //projectsHeader,
   publicationsHeader,
   publications,
 } from "../../portfolio.js";
-import ProjectsData from "../../shared/opensource/projects.json";
+//import ProjectsData from "../../shared/opensource/projects.json";
 import "./Projects.css";
-import ProjectsImg from "./ProjectsImg";
+//import ProjectsImg from "./ProjectsImg";
 
 class Projects extends Component {
   render() {
