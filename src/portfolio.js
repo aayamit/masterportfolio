@@ -383,7 +383,7 @@ const certifications = {
       subtitle: "",
       logo_path: "blmbrg.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+        "https://portal.bloombergforeducation.com/certificates/zgxHVrq5Ufg3GDtxrLRGc786",
       alt_name: "Google",
       color_code: "#0C9D5899",
     },
@@ -392,7 +392,7 @@ const certifications = {
       subtitle: "",
       logo_path: "nism.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+        "https://drive.google.com/file/d/1DsDeJdEeGaxcZQvPJAxAl_-fNIXzucXt/view?usp=share_link",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
